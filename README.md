@@ -51,11 +51,11 @@ Selain installasi docker teman-teman juga harus membuat account pada:
         </tr>
         <tr>
             <td> docker start `container_name/container_id`</td>
-            <td> Untuk **START** container</td>
+            <td> Untuk <b>START</b> container</td>
         </tr>
         <tr>
             <td> docker stop `container_name/container_id`</td>
-            <td> Untuk **STOP** container</td>
+            <td> Untuk <b>STOP</b> container</td>
         </tr>
         <tr>
             <td> docker rm `container_name/container_id`</td>
